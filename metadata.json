@@ -1,0 +1,6 @@
+{
+  "name": "AI 윤리 딜레마 연구소",
+  "description": "AI 자율주행, 의료 인공지능, 알고리즘 채용 등 인공지능 윤리적 딜레마에 대한 익명 의견 수집 및 실시간 분석 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
